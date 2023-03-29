@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.imagen{
+    margin-left: 45%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.links a{
+    display: block;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 0.5%;
+    border-radius: 2cm;
+    text-align: center;
+}
+
+.whatsapp{
+    background-color: #AED581;
+}
+
+.facebook{
+    background-color: #4DD0E1;
+}
+
+.instagram{
+    background-color: #FFAB91;
+}
+
+
+.linkedIn{
+background-color: #42A5F5;
+}
+
